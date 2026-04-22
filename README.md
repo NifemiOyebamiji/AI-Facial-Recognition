@@ -1,4 +1,4 @@
-# AI-Facial-Recognition
+
 # AI Facial Recognition — Compliance Intelligence Explorer
 
 > **7CS525 Human & Legal Aspects of Cyber Security**  
