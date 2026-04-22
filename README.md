@@ -85,7 +85,7 @@ Unlike generic EU AI Act reference tools, this notebook maps **compliance status
 ### Local Jupyter
 
 ```bash
-git clone [https://github.com/YOUR-USERNAME/YOUR-REPO.git](https://github.com/NifemiOyebamiji/AI-Facial-Recognition)
+git clone https://github.com/NifemiOyebamiji/AI-Facial-Recognition
 cd YOUR-REPO
 pip install -r requirements.txt
 jupyter notebook AI_Facial_Recognition_Compliance_Explorer.ipynb
