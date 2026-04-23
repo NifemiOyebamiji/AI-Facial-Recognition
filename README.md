@@ -4,7 +4,7 @@
 > **7CS525 Human & Legal Aspects of Cyber Security**  
 > University of Derby · MSc Cybersecurity 2025/26 · Student: 100796311
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/YOUR-REPO/blob/main/AI_Facial_Recognition_Compliance_Explorer.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/NifemiOyebamiji/AI-Facial-Recognition/blob/6e958feae194ed6b4624597ee9c992400cc8d443/AI_Facial_Recognition_Compliance_Explorer.ipynb)
 
 ---
 
